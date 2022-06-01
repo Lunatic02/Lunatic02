@@ -3,4 +3,3 @@
 - 🌱 Atualmente estou me aprofundando em javaScript, com o intuito de me tornar full stack.
 - 💞️ Estou aberto para colaborar e aprender em projetos de FrontEnd.
 - 📫 Meus contatos: lucas_hcosta@live.com / @lucas_torresin
--
