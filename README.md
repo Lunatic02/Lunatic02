@@ -1,0 +1,6 @@
+- 👋 Olá, Eu sou o Lucas Torresin! Hi, im Lucas Torresin! Hallo ich bin Lucas Torresin!
+- 👀 Meus interesses são variados, porem sou apaixonado por programação e esportes.
+- 🌱 Atualmente estou me aprofundando em javaScript, com o intuito de me tornar full stack.
+- 💞️ Estou aberto para colaborar e aprender em projetos de FrontEnd.
+- 📫 Meus contatos: lucas_hcosta@live.com / @lucas_torresin
+-
