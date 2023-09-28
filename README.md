@@ -1,12 +1,9 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=<h1>HELLO,+WORLD</h1>;<h1>Olá,+Mundo</h1>;<h1>Bonjour,+Monde</h1>;<h1>Hallo,+Welt</h1>;<h1>Konnichiwa,+Sekai</h1>!+:%29)](https://git.io/typing-svg)
+<H1><a href="https://github.com/Lunatic02/">Lucas Torresin</a></H1>
+Web Developer
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Lunatic02&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Lucas Torresin github stats" /> 
- 
-</div>
+Passionate about web development.
 
+“Ultima hominis felicitas est in contemplatione veritatis” - Santo Tomás de Aquino,
 
 
 ### Main skills:
@@ -38,5 +35,3 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
