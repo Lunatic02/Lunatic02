@@ -1,7 +1,7 @@
 <H1><a href="https://github.com/Lunatic02/">Lucas Torresin</a></H1>
 Web Developer
 
-Passionate about web development.
+Passionate about life.
 
 “Ultima hominis felicitas est in contemplatione veritatis” - Santo Tomás de Aquino,
 
