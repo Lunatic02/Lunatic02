@@ -3,7 +3,7 @@ Web Developer
 
 Passionate about life.
 
-“Ultima hominis felicitas est in contemplatione veritatis” - Santo Tomás de Aquino,
+“Ultima hominis felicitas est in contemplatione veritatis” - St. Thomas Aquinas
 
 
 ### Main skills:
