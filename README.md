@@ -1,5 +1,5 @@
 <H1><a href="https://github.com/Lunatic02/">Lucas Torresin</a></H1>
-Web Developer and data analyst
+Web Developer
 
 Passionate about life.
 
